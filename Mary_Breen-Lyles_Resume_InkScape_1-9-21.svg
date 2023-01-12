@@ -181,14 +181,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.9779739"
-     inkscape:cx="429.22711"
-     inkscape:cy="123.61134"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.98898693"
+     inkscape:cx="403.94872"
+     inkscape:cy="343.78614"
+     inkscape:window-width="958"
+     inkscape:window-height="991"
+     inkscape:window-x="952"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g24">
     <inkscape:page
        x="0"
@@ -203,7 +203,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,0,1122.52)">
     <path
-       d="M 0,0 H 197.911 V 841.89 H 0 Z"
+       d="M -0.25376524,0.56226417 H 197.65724 V 842.45226 H -0.25376524 Z"
        style="fill:#d1d3d4;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path26" />
     <g
@@ -265,29 +265,37 @@
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(1,0,0,-1,50.958,630.5757)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text78"><tspan
+       transform="scale(1,-1)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:0;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text78"
+       x="46.028713"
+       y="-632.47156"><tspan
          sodipodi:role="line"
          id="tspan76"
-         x="0"
-         y="0">(920) 370 - 1896 </tspan><tspan
+         x="46.028713"
+         y="-632.47156"
+         dy="0"
+         style="line-height:2.4">(920) 370 - 1896 </tspan><tspan
          sodipodi:role="line"
-         x="0"
-         y="11.585973"
-         id="tspan2120">mary.breenlyles@gmail.com</tspan><tspan
+         x="46.028713"
+         y="-610.87158"
+         id="tspan2120"
+         style="line-height:2.4">mary.breenlyles@gmail.com</tspan><tspan
+         style="line-height:2.4"
          sodipodi:role="line"
-         x="0"
-         y="23.171946"
-         id="tspan2122">www.marybreenlyles.com</tspan><tspan
+         id="tspan6493"
+         x="46.028713"
+         y="-589.27155">www.marybreenlyles.com</tspan><tspan
+         style="line-height:1.25"
          sodipodi:role="line"
-         x="0"
-         y="34.757919"
-         id="tspan2124">603 W Stratford PL, Apt 2A</tspan><tspan
+         id="tspan6495"
+         x="46.028713"
+         y="-572.84656">603 W Stratford PL, Apt 2A</tspan><tspan
+         style="line-height:1.25"
          sodipodi:role="line"
-         x="0"
-         y="46.343891"
-         id="tspan2126">Chicago, IL 60657</tspan></text>
+         id="tspan6497"
+         x="46.028713"
+         y="-561.59656">Chicago, IL 60657</tspan></text>
     <g
        id="g80">
       <g
@@ -391,7 +399,7 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,21.6743,653.4453)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text150"><tspan
          sodipodi:role="line"
          id="tspan148"
@@ -994,7 +1002,7 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,21.8486,528.0605)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text462"><tspan
          sodipodi:role="line"
          id="tspan460"
@@ -1263,7 +1271,7 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,22.8486,418.0605)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text602"><tspan
          sodipodi:role="line"
          id="tspan600"
@@ -1280,7 +1288,7 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,21.7139,168.623)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text610"><tspan
          sodipodi:role="line"
          id="tspan608"
@@ -1501,91 +1509,6 @@
         </g>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(1,0,0,-1,21.6455,148.7246)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0434px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text764"><tspan
-         sodipodi:role="line"
-         id="tspan762"
-         x="0"
-         y="0">Ruby on Rails</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="11.641843"
-         id="tspan2621">VS Code</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="23.283686"
-         id="tspan2623">Celery, RabbitMQ</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="34.925529"
-         id="tspan2625">Redis</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="46.567371"
-         id="tspan2627">ElasticSearch</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="58.209213"
-         id="tspan2629">MySQL, Postgres</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="69.851059"
-         id="tspan2631">Test Driven Development</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="81.492897"
-         id="tspan2633">Project Estimation</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="93.134743"
-         id="tspan2635">API construction/consumption</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="104.77659"
-         id="tspan2637">Client Communication</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="116.41843"
-         id="tspan2639">Python</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="128.06027"
-         id="tspan2641">Java</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="139.70212"
-         id="tspan2643">PHP</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="151.34395"
-         id="tspan2645">ReactJS</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="162.98579"
-         id="tspan2647">jQuery</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="174.62764"
-         id="tspan2649">Git</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="186.26949"
-         id="tspan2651">Docker</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="197.91133"
-         id="tspan2653">Postman</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="209.55318"
-         id="tspan2655">Jira</tspan><tspan
-         sodipodi:role="line"
-         x="0"
-         y="221.19501"
-         id="tspan2657">Patience</tspan></text>
     <g
        id="g766"
        transform="translate(267.6831,633.5034)">
@@ -1597,7 +1520,7 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,217.3057,653.793)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text772"><tspan
          sodipodi:role="line"
          id="tspan770"
@@ -2461,12 +2384,13 @@
     <text
        xml:space="preserve"
        transform="matrix(1,0,0,-1,217.9683,730.7705)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;letter-spacing:2.25000006px"
        id="text1212"><tspan
          sodipodi:role="line"
          id="tspan1210"
          x="0"
-         y="0">SUMMARY</tspan></text>
+         y="0">S<tspan
+   id="tspan5707">UMMARY</tspan></tspan></text>
     <g
        id="g1214"
        transform="translate(250.6997,119.5986)">
@@ -3088,5 +3012,120 @@
          id="tspan1534"
          x="0"
          y="0">ENGINEER - RESEARCHER - PROGRAMMER</tspan></text>
+    <g
+       id="g6800">
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0434px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text764"
+         x="21.504162"
+         y="-143.41614"><tspan
+           sodipodi:role="line"
+           id="tspan762"
+           x="21.504162"
+           y="-143.41614"
+           style="text-align:start;text-anchor:start">Ruby on Rails</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-131.77429"
+           id="tspan2621"
+           style="text-align:start;text-anchor:start">VS Code</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-120.13246"
+           id="tspan2623"
+           style="text-align:start;text-anchor:start">Celery, RabbitMQ</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-108.49062"
+           id="tspan2625"
+           style="text-align:start;text-anchor:start">Redis</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-96.848778"
+           id="tspan2627"
+           style="text-align:start;text-anchor:start">ElasticSearch</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-85.206932"
+           id="tspan2629"
+           style="text-align:start;text-anchor:start">MySQL, Postgres</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-73.565086"
+           id="tspan2631"
+           style="text-align:start;text-anchor:start">Test Driven Development</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-61.923241"
+           id="tspan2633"
+           style="text-align:start;text-anchor:start">Project Estimation</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-50.281399"
+           id="tspan2635"
+           style="text-align:start;text-anchor:start">API construction/consumption</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-38.639557"
+           id="tspan2637"
+           style="text-align:start;text-anchor:start">Client Communication</tspan><tspan
+           sodipodi:role="line"
+           x="21.504162"
+           y="-26.997717"
+           id="tspan2657" /></text>
+      <text
+         xml:space="preserve"
+         transform="scale(1,-1)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0434px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text764-1"
+         x="145.19905"
+         y="-155.05798"><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-155.05798"
+           id="tspan2637-9" /><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-143.41614"
+           id="tspan2639-4">Python</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-131.77429"
+           id="tspan2641-5">Java</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-120.13245"
+           id="tspan2643-3">PHP</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-108.49062"
+           id="tspan2645-7">ReactJS</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-96.84877"
+           id="tspan2647-0">jQuery</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-85.206924"
+           id="tspan2649-1">Git</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-73.565079"
+           id="tspan2651-0">Docker</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-61.923237"
+           id="tspan2653-9">Postman</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-50.281395"
+           id="tspan2655-8">Jira</tspan><tspan
+           sodipodi:role="line"
+           x="145.19905"
+           y="-38.639553"
+           id="tspan2657-3">Patience</tspan></text>
+    </g>
   </g>
 </svg>
